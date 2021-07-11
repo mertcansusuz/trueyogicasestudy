@@ -1,0 +1,98 @@
+[
+  {
+    "Id": "21321-fdsf322",
+    "Code": "",
+    "Title": "Mood Tracking",
+    "Rank": 1,
+    "SubMenu": [
+      {
+        "Id": "21321-fdsf322",
+        "Code": "",
+        "Title": "Relations",
+        "Rank": 1
+      }
+    ]
+  },
+  {
+    "Id": "21321-fdsf322",
+    "Code": "",
+    "Title": "Mantra",
+    "Rank": 2
+  },
+  {
+    "Id": "21321-fdsf322",
+    "Code": "",
+    "Title": "Moment",
+    "Rank": 3,
+    "SubMenu": [
+      {
+        "Id": "21321-fdsf322",
+        "Code": "",
+        "Title": "Relax",
+        "Rank": 1,
+        "Depth": 1
+      },
+      {
+        "Id": "21321-fdsf322",
+        "Code": "",
+        "Title": "Energy",
+        "Rank": 2,
+        "Depth": 1
+      },
+      {
+        "Id": "21321-fdsf322",
+        "Code": "",
+        "Title": "Sleep",
+        "Rank": 3,
+        "Depth": 1
+      },
+      {
+        "Id": "21321-fdsf322",
+        "Code": "",
+        "Title": "Focus",
+        "Rank": 4,
+        "Depth": 1
+      },
+      {
+        "Id": "21321-fdsf322",
+        "Code": "",
+        "Title": "Only Music",
+        "Rank": 1,
+        "Depth": 2
+      },
+      {
+        "Id": "21321-fdsf322",
+        "Code": "",
+        "Title": "Yoga",
+        "Rank": 2,
+        "Depth": 2
+      },
+      {
+        "Id": "21321-fdsf322",
+        "Code": "",
+        "Title": "Meditation",
+        "Rank": 3,
+        "Depth": 2
+      },
+      {
+        "Id": "21321-fdsf322",
+        "Code": "",
+        "Title": "Breath",
+        "Rank": 4,
+        "Depth": 2
+      }
+    ]
+  },
+  {
+    "Id": "21321-fdsf322",
+    "Code": "",
+    "Title": "Weather Moon Cycle",
+    "Rank": 4
+  },
+  {
+    "Id": "21321-fdsf322",
+    "Code": "",
+    "Title": "Day/Nigth & Sun Position",
+    "Rank": 5
+  }
+]

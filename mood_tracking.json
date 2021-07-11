@@ -1,0 +1,47 @@
+﻿[
+  {
+    "Id": "21321-fdsf322",
+    "Code": "23123d-dfds3",
+    "Title": "rad",
+    "Content": [
+      "süper, sırrını insanlarla paylaş"
+    ],
+    "iconUrl": "http://rad.icon.png"
+  },
+  {
+    "Id": "21321-fdsf322",
+    "Code": "23123d-dfds3",
+    "Title": "good",
+    "Content": [
+      "mutluluk seni güzel gösteriyor!"
+    ],
+    "iconUrl": "http://good.icon.png"
+  },
+  {
+    "Id": "21321-fdsf322",
+    "Code": "23123d-dfds3",
+    "Title": "meh",
+    "Content": [
+      "daha iyi hissedebilirsin, günün hala bitmedi!"
+    ],
+    "iconUrl": "http://meh.icon.png"
+  },
+  {
+    "Id": "21321-fdsf322",
+    "Code": "23123d-dfds3",
+    "Title": "bad",
+    "Content": [
+      "hissetmeye başla, bugün güzel bir gün!"
+    ],
+    "iconUrl": "http://bad.icon.png"
+  },
+  {
+    "Id": "21321-fdsf322",
+    "Code": "23123d-dfds3",
+    "Title": "awful",
+    "Content": [
+      "her ne yaşıyorsan senin için burada olduğumuzu bil!"
+    ],
+    "iconUrl": "http://awful.icon.png"
+  }
+]
