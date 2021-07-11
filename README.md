@@ -28,16 +28,16 @@ Mood Tracking kullanıcının günlük duygu durumuna göre return edeceğimiz b
   
 Yukarıdaki örnekteki gibi 5 farklı mood call edildiğinde, bu moodlara özel bir yazı anlık olarak return edilmeli.
 Örneğin;
-1.rad seçilldiğinde; “süper, sırrını insanlarla paylaş”
-2.good seçildiğinde; “mutluluk seni güzel gösteriyor!”
-3.meh seçildiğinde; “daha iyi hissedebilirsin, günün hala bitmedi!”
-4.bad seçildiğinde; “hissetmeye başla, bugün güzel bir gün!”
-5.awful seçildiğinde; “her ne yaşıyorsan senin için burada olduğumuzu bil!”
+1.rad seçilldiğinde; “süper, sırrını insanlarla paylaş”  
+2.good seçildiğinde; “mutluluk seni güzel gösteriyor!”  
+3.meh seçildiğinde; “daha iyi hissedebilirsin, günün hala bitmedi!”  
+4.bad seçildiğinde; “hissetmeye başla, bugün güzel bir gün!”  
+5.awful seçildiğinde; “her ne yaşıyorsan senin için burada olduğumuzu bil!”  
 
 Mood Tracking’de seçilen modun 3 saat sonrasında (yani yukarıdaki gibi ilk return yapıldıktan sonra) kullanıcıya yeni bir notification atılması planlanacak. 
-Örneğin;
-“good” seçen kullanıcıya 3 saat sonra “umarım günün harika bir şekilde devam ediyordur.”
-“bad” seçen kullanıcıya 3 saat sonra “dediğim gibi güzel zaman güzelliklerle dolu, keyifini sür.”
+Örneğin;  
+“good” seçen kullanıcıya 3 saat sonra “umarım günün harika bir şekilde devam ediyordur.”  
+“bad” seçen kullanıcıya 3 saat sonra “dediğim gibi güzel zaman güzelliklerle dolu, keyifini sür.”  
 
 ## Weather ve Moon Cycle
 Weather ve Moon Cycle call edildiğinde, bilgileri internet üzerinden çekilip kullanıcıya gösterilmeli. Günlük hava durumu ve yarınki tahmini hava durumu bilgileri;  
@@ -47,12 +47,12 @@ Weather ve Moon Cycle call edildiğinde, bilgileri internet üzerinden çekilip 
  ![image](https://user-images.githubusercontent.com/10465339/125210149-893f2f00-e2a6-11eb-94b2-3164de5f94a4.png)
 
 ## Sun Position
-**Sun position** bilgileri, Londra şehrine sabit olacak şekilde, güneşin konumuna göre günlük olarak aşağıdaki bilgiler dönmeli;  
-**Şafak Saati: ??
-Güneşin Doğuş saati: ??
-Güneş hangi saatte en tepede: ??
-Güneşin Batış Saati: ??
-Alacakaranlık Saati: ??**
+**Sun position** bilgileri, Londra şehrine sabit olacak şekilde, güneşin konumuna göre günlük olarak aşağıdaki bilgiler dönmeli;    
+**Şafak Saati: ??  
+Güneşin Doğuş saati: ??  
+Güneş hangi saatte en tepede: ??  
+Güneşin Batış Saati: ??  
+Alacakaranlık Saati: ??  **
 
 
 
