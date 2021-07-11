@@ -9,29 +9,29 @@ Focus -> Breath -> return Focus_Breath05
 
 
 ## Mantra
-Mantra call edildiğinde random olarak Mantra yazılıar dönecek. Mantra yazıları random olarak seçilecek fakat; örneğin toplam 10 mantra yazısı var ise, önceki günlerde dönen Mantra yazıları bu random listesinde olmayacak.  
+**Mantra** call edildiğinde random olarak Mantra yazılıar dönecek. Mantra yazıları random olarak seçilecek fakat; örneğin toplam 10 mantra yazısı var ise, önceki günlerde dönen Mantra yazıları bu random listesinde olmayacak.  
 1.gün : Mantra09 seçildi  
 2.gün Mantra09 olmayan random bir mantra = Mantra07 seçildi  
 3.gün Mantra09 ve Mantra07 olmayan random bir mantra = Mantra03 seçildi  
 4.gün Mantra09 ve Mantra07 ve Mantra03 olmayan random bir mantra = Mantra04 seçildi  
 ..  
 ..  
-11.gün full liste içinden RANDOM bir mantra; örneğin Mantra09  
+11.gün full liste içinden (1. adıma dönüyoruz gibi düşünün) RANDOM bir mantra; örneğin Mantra09  
 Şeklinde return gelmeli.  
 
 
 ## Mood Tracking
-Mood Tracking kullanıcının günlük duygu durumuna göre return edeceğimiz bi
+**Mood Tracking** kullanıcının günlük duygu durumuna göre return edeceğimiz bi
   
   ![image](https://user-images.githubusercontent.com/10465339/125210122-6876d980-e2a6-11eb-9273-a0af7047b224.png)
   
 Yukarıdaki örnekteki gibi 5 farklı mood call edildiğinde, bu moodlara özel bir yazı anlık olarak return edilmeli.
 Örneğin;
-1.rad seçilldiğinde; “süper, sırrını insanlarla paylaş”  
+*1.rad seçilldiğinde; “süper, sırrını insanlarla paylaş”  
 2.good seçildiğinde; “mutluluk seni güzel gösteriyor!”  
 3.meh seçildiğinde; “daha iyi hissedebilirsin, günün hala bitmedi!”  
 4.bad seçildiğinde; “hissetmeye başla, bugün güzel bir gün!”  
-5.awful seçildiğinde; “her ne yaşıyorsan senin için burada olduğumuzu bil!”  
+5.awful seçildiğinde; “her ne yaşıyorsan senin için burada olduğumuzu bil!”  *
 
 Mood Tracking’de seçilen modun 3 saat sonrasında (yani yukarıdaki gibi ilk return yapıldıktan sonra) kullanıcıya yeni bir notification atılması planlanacak. 
 Örneğin;  
@@ -39,7 +39,7 @@ Mood Tracking’de seçilen modun 3 saat sonrasında (yani yukarıdaki gibi ilk 
 “bad” seçen kullanıcıya 3 saat sonra “dediğim gibi güzel zaman güzelliklerle dolu, keyifini sür.”  
 
 ## Weather ve Moon Cycle
-Weather ve Moon Cycle call edildiğinde, bilgileri internet üzerinden çekilip kullanıcıya gösterilmeli. Günlük hava durumu ve yarınki tahmini hava durumu bilgileri;  
+**Weather ve Moon Cycle** call edildiğinde, bilgileri internet üzerinden çekilip kullanıcıya gösterilmeli. Günlük hava durumu ve yarınki tahmini hava durumu bilgileri;  
 ![image](https://user-images.githubusercontent.com/10465339/125210146-82b0b780-e2a6-11eb-8edf-fdf038744412.png)
   
   bunun yanında ayın evreleri aşağıdaki şekilde, Londra şehri için, ay içerisinde hangi evrelerde olacağı return edilmeli.
@@ -47,11 +47,11 @@ Weather ve Moon Cycle call edildiğinde, bilgileri internet üzerinden çekilip 
 
 ## Sun Position
 **Sun position** bilgileri, Londra şehrine sabit olacak şekilde, güneşin konumuna göre günlük olarak aşağıdaki bilgiler dönmeli;    
-**Şafak Saati: ??  
+*Şafak Saati: ??  
 Güneşin Doğuş saati: ??  
 Güneş hangi saatte en tepede: ??  
 Güneşin Batış Saati: ??  
-Alacakaranlık Saati: ??  **
+Alacakaranlık Saati: ??  *
 
 
 
