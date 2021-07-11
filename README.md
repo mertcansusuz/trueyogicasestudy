@@ -2,13 +2,14 @@
 
  ![image](https://user-images.githubusercontent.com/10465339/125210060-e7b7dd80-e2a5-11eb-867d-dda9d26d8c71.png)
 
-Moment kullanıcının anlık durumuna göre ona sunacağımız hizmeti söyler. 
+## Moment
+**Moment** kullanıcının anlık durumuna göre ona sunacağımız hizmeti söyler. 
 Kullanıcı Relax,Energy,Sleep,Focus seçimlerinden birini seçtiğinde, call edeceği servis ile birlikte yine ikinci bir seçim Music,Yoga,Meditation,Breath içerisinden seçim yapmalı. Bu seçim sonrası return olarak kullanıcıya anlık durumuna göre dönüş yapılmalı.
 Sleep -> Music -> return Sleep_Music01 
 Focus -> Breath -> return Focus_Breath05
 
 
-
+## Mantra
 Mantra call edildiğinde random olarak Mantra yazılıar dönecek. Mantra yazıları random olarak seçilecek fakat; örneğin toplam 10 mantra yazısı var ise, önceki günlerde dönen Mantra yazıları bu random listesinde olmayacak.
 1.gün : Mantra09 seçildi
 2.gün Mantra09 olmayan random bir mantra = Mantra07 seçildi
@@ -20,9 +21,11 @@ Mantra call edildiğinde random olarak Mantra yazılıar dönecek. Mantra yazıl
 Şeklinde return gelmeli.
 
 
-
+## Mood Tracking
 Mood Tracking kullanıcının günlük duygu durumuna göre return edeceğimiz bi
- 
+  
+  ![image](https://user-images.githubusercontent.com/10465339/125210122-6876d980-e2a6-11eb-9273-a0af7047b224.png)
+  
 Yukarıdaki örnekteki gibi 5 farklı mood call edildiğinde, bu moodlara özel bir yazı anlık olarak return edilmeli.
 Örneğin;
 1.rad seçilldiğinde; “süper, sırrını insanlarla paylaş”
@@ -36,18 +39,20 @@ Mood Tracking’de seçilen modun 3 saat sonrasında (yani yukarıdaki gibi ilk 
 “good” seçen kullanıcıya 3 saat sonra “umarım günün harika bir şekilde devam ediyordur.”
 “bad” seçen kullanıcıya 3 saat sonra “dediğim gibi güzel zaman güzelliklerle dolu, keyifini sür.”
 
+## Weather ve Moon Cycle
+Weather ve Moon Cycle call edildiğinde, bilgileri internet üzerinden çekilip kullanıcıya gösterilmeli. Günlük hava durumu ve yarınki tahmini hava durumu bilgileri;  
+![image](https://user-images.githubusercontent.com/10465339/125210146-82b0b780-e2a6-11eb-8edf-fdf038744412.png)
+  
+  bunun yanında ayın evreleri aşağıdaki şekilde, Londra şehri için, ay içerisinde hangi evrelerde olacağı return edilmeli.
+ ![image](https://user-images.githubusercontent.com/10465339/125210149-893f2f00-e2a6-11eb-94b2-3164de5f94a4.png)
 
-Weather ve Moon Cycle call edildiğinde, bilgileri internet üzerinden çekilip kullanıcıya gösterilmeli. Günlük hava durumu ve yarınki tahmini hava durumu bilgileri;
- 
-bunun yanında ayın evreleri aşağıdaki şekilde, Londra şehri için, ay içerisinde hangi evrelerde olacağı return edilmeli.
- 
-
-Sun position bilgileri, Londra şehrine sabit olacak şekilde, güneşin konumuna göre günlük olarak aşağıdaki bilgiler dönmeli;
-Şafak Saati: ??
+## Sun Position
+**Sun position** bilgileri, Londra şehrine sabit olacak şekilde, güneşin konumuna göre günlük olarak aşağıdaki bilgiler dönmeli;  
+**Şafak Saati: ??
 Güneşin Doğuş saati: ??
 Güneş hangi saatte en tepede: ??
 Güneşin Batış Saati: ??
-Alacakaranlık Saati: ??
+Alacakaranlık Saati: ??**
 
 
 
