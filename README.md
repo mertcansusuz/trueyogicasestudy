@@ -26,7 +26,7 @@ Focus -> Breath -> return Focus_Breath05
   
   ![image](https://user-images.githubusercontent.com/10465339/125210122-6876d980-e2a6-11eb-9273-a0af7047b224.png)
   
-Yukarıdaki örnekteki gibi 5 farklı mood call edildiğinde, bu moodlara özel bir yazı anlık olarak return edilmeli.
+Yukarıdaki örnekteki gibi 5 farklı mood call edildiğinde, bu moodlara özel bir yazı anlık olarak return edilmeli.  
 Örneğin;
 1.rad seçilldiğinde; “süper, sırrını insanlarla paylaş”  
 2.good seçildiğinde; “mutluluk seni güzel gösteriyor!”  
