@@ -1,4 +1,4 @@
-# Case Study
+# Study Case
  ![image](https://user-images.githubusercontent.com/10465339/125210060-e7b7dd80-e2a5-11eb-867d-dda9d26d8c71.png)
 
 ## Moment
