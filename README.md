@@ -10,15 +10,15 @@ Focus -> Breath -> return Focus_Breath05
 
 
 ## Mantra
-Mantra call edildiğinde random olarak Mantra yazılıar dönecek. Mantra yazıları random olarak seçilecek fakat; örneğin toplam 10 mantra yazısı var ise, önceki günlerde dönen Mantra yazıları bu random listesinde olmayacak.
-1.gün : Mantra09 seçildi
-2.gün Mantra09 olmayan random bir mantra = Mantra07 seçildi
-3.gün Mantra09 ve Mantra07 olmayan random bir mantra = Mantra03 seçildi
-4.gün Mantra09 ve Mantra07 ve Mantra03 olmayan random bir mantra = Mantra04 seçildi
-..
-..
-11.gün full liste içinden RANDOM bir mantra; örneğin Mantra09
-Şeklinde return gelmeli.
+Mantra call edildiğinde random olarak Mantra yazılıar dönecek. Mantra yazıları random olarak seçilecek fakat; örneğin toplam 10 mantra yazısı var ise, önceki günlerde dönen Mantra yazıları bu random listesinde olmayacak.  
+1.gün : Mantra09 seçildi  
+2.gün Mantra09 olmayan random bir mantra = Mantra07 seçildi  
+3.gün Mantra09 ve Mantra07 olmayan random bir mantra = Mantra03 seçildi  
+4.gün Mantra09 ve Mantra07 ve Mantra03 olmayan random bir mantra = Mantra04 seçildi  
+..  
+..  
+11.gün full liste içinden RANDOM bir mantra; örneğin Mantra09  
+Şeklinde return gelmeli.  
 
 
 ## Mood Tracking
