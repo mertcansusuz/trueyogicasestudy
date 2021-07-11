@@ -76,3 +76,9 @@ User Mantra History Collection : user_mantra_history.json
 Mood Tracking Collection : mood_tracking.json  
 User Mood History Collection :  user_mood_history.json  
 Weather collection : weather.json  
+
+## Yardımcı Linkler
+https://apiary.io/how-to-build-api
+http://apostylee.com/web-servis-yazmak-ve-kullanmak/
+https://rapidapi.com/blog/20-tutorials-on-how-to-create-your-own-api-sorted-by-programming-language/
+
