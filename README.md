@@ -10,6 +10,7 @@ Focus -> Breath -> return Focus_Breath05
 
 ## Mantra
 **Mantra** call edildiğinde random olarak Mantra yazılıar dönecek. Mantra yazıları random olarak seçilecek fakat; örneğin toplam 10 mantra yazısı var ise, önceki günlerde dönen Mantra yazıları bu random listesinde olmayacak.  
+**Örneğin;**  
 1.gün : Mantra09 seçildi  
 2.gün Mantra09 olmayan random bir mantra = Mantra07 seçildi  
 3.gün Mantra09 ve Mantra07 olmayan random bir mantra = Mantra03 seçildi  
@@ -27,14 +28,14 @@ Focus -> Breath -> return Focus_Breath05
   
 Yukarıdaki örnekteki gibi 5 farklı mood call edildiğinde, bu moodlara özel bir yazı anlık olarak return edilmeli.
 Örneğin;
-*1.rad seçilldiğinde; “süper, sırrını insanlarla paylaş”  
+1.rad seçilldiğinde; “süper, sırrını insanlarla paylaş”  
 2.good seçildiğinde; “mutluluk seni güzel gösteriyor!”  
 3.meh seçildiğinde; “daha iyi hissedebilirsin, günün hala bitmedi!”  
 4.bad seçildiğinde; “hissetmeye başla, bugün güzel bir gün!”  
-5.awful seçildiğinde; “her ne yaşıyorsan senin için burada olduğumuzu bil!”  *
+5.awful seçildiğinde; “her ne yaşıyorsan senin için burada olduğumuzu bil!”  
 
 Mood Tracking’de seçilen modun 3 saat sonrasında (yani yukarıdaki gibi ilk return yapıldıktan sonra) kullanıcıya yeni bir notification atılması planlanacak. 
-Örneğin;  
+**Örneğin**;  
 “good” seçen kullanıcıya 3 saat sonra “umarım günün harika bir şekilde devam ediyordur.”  
 “bad” seçen kullanıcıya 3 saat sonra “dediğim gibi güzel zaman güzelliklerle dolu, keyifini sür.”  
 
@@ -47,11 +48,11 @@ Mood Tracking’de seçilen modun 3 saat sonrasında (yani yukarıdaki gibi ilk 
 
 ## Sun Position
 **Sun position** bilgileri, Londra şehrine sabit olacak şekilde, güneşin konumuna göre günlük olarak aşağıdaki bilgiler dönmeli;    
-*Şafak Saati: ??  
+Şafak Saati: ??  
 Güneşin Doğuş saati: ??  
 Güneş hangi saatte en tepede: ??  
 Güneşin Batış Saati: ??  
-Alacakaranlık Saati: ??  *
+Alacakaranlık Saati: ??  
 
 
 
