@@ -77,7 +77,9 @@ Mood Tracking Collection : mood_tracking.json
 User Mood History Collection :  user_mood_history.json  
 Weather collection : weather.json  
 
-## Yardımcı Linkler
+## Yardımcı Linkler  
+https://www.udemy.com/course/api-and-web-service-introduction/  
 https://apiary.io/how-to-build-api  
+https://apereo.github.io/cas/6.1.x/services/Service-Management.html  
 http://apostylee.com/web-servis-yazmak-ve-kullanmak/  
 https://rapidapi.com/blog/20-tutorials-on-how-to-create-your-own-api-sorted-by-programming-language/  
