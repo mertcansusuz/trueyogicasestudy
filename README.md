@@ -111,6 +111,18 @@ Yukarıda bahsettiğimiz 3 saat sonra gönderilecek Notification 5 dakika sonras
 
 2)Mantra'lar database'e eklenecek ve database'den random olarak çekilmesi sağlanacak.
 
-3)Moon Cycle için API varsa entegre edilecek (inceleniyor) yoksa nasıl ilerleyebiliriz?
+3)Moon Cycle için API varsa entegre edilecek (inceliyorum)   
+Yoksa nasıl ilerleyebiliriz?
 
-4)Moment için seçilen kategorilere göre youtube linki veya direkt olarak video açılacak. (Videoları Buraya ekleyeceğim)
+4)Moment için seçilen kategorilere göre video açılacak.  
+Energy - Music : https://www.youtube.com/watch?v=fzNMd3Tu1Zw   
+Energy - Yoga : https://www.youtube.com/watch?v=F47hdaNXwT4  
+Energy - Meditation : https://www.youtube.com/watch?v=_kQ1lh2tC2w  
+Energy - Breath : https://www.youtube.com/watch?v=w2Mi0a5dDhc  
+  
+Relax - Music : https://www.youtube.com/watch?v=2OEL4P1Rz04  
+Relax - Yoga : https://www.youtube.com/watch?v=sTANio_2E0Q  
+Relax - Meditation : https://www.youtube.com/watch?v=W8a3T8pI9Ns  
+Relax - Breath : https://www.youtube.com/watch?v=1Dv-ldGLnIY   
+
+şimdilik bu ikisi için video form olarak ekleyebiliyor muyuz deneyelim.
