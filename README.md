@@ -109,7 +109,7 @@ https://rapidapi.com/blog/20-tutorials-on-how-to-create-your-own-api-sorted-by-p
 
 Yukarıda bahsettiğimiz 3 saat sonra gönderilecek Notification 5 dakika sonrasına ayarlansın. Return ediyor mu görelim.
 
-2)Mantra'lar database'e eklenecek.
+2)Mantra'lar database'e eklenecek ve database'den random olarak çekilmesi sağlanacak.
 
 3)Moon Cycle için API varsa entegre edilecek (inceleniyor) yoksa nasıl ilerleyebiliriz?
 
