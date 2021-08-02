@@ -83,3 +83,34 @@ https://apiary.io/how-to-build-api
 https://apereo.github.io/cas/6.1.x/services/Service-Management.html  
 http://apostylee.com/web-servis-yazmak-ve-kullanmak/  
 https://rapidapi.com/blog/20-tutorials-on-how-to-create-your-own-api-sorted-by-programming-language/  
+
+# Extralar
+1) Mood Tracking için database'den çekilen bilgilere her biri için ekstra 2 tane daha text eklenecek ve random seçilecek.
+1.rad seçilldiğinde;
+-“süper, sırrını insanlarla paylaş”
+-“böyle hissetmeye devam et”
+-“güzel bir gün seni bekliyor”
+2.good seçildiğinde;
+-“mutluluk seni güzel gösteriyor!”
+-“mutluluk bugün komşun ve sana çok yakın”
+-“hayalini kurduğun mutluluk bugün seninle”
+3.meh seçildiğinde;
+-“daha iyi hissedebilirsin, günün hala bitmedi!”
+-“her şey harika, yeter ki farkına var”
+-“günün en güzel saatleri henüz yeni başlıyor”
+4.bad seçildiğinde;
+-“hissetmeye başla, bugün güzel bir gün!”
+-“sorun yok, her şey yolunda”
+-“kafanı rahatlat ve hissetmeye devam et”
+5.awful seçildiğinde;
+-“her ne yaşıyorsan senin için burada olduğumuzu bil!”
+-“bugünü daha iyi yapmak için biraz meditasyona ne dersin?”
+-“unutma, harika hissetmek senin elinde”
+
+Yukarıda bahsettiğimiz 3 saat sonra gönderilecek Notification 5 dakika sonrasına ayarlansın. Return ediyor mu görelim.
+
+2)Mantra'lar database'e eklenecek.
+
+3)Moon Cycle için API varsa entegre edilecek (inceleniyor) yoksa nasıl ilerleyebiliriz?
+
+4)Moment için seçilen kategorilere göre youtube linki veya direkt olarak video açılacak. (Videoları Buraya ekleyeceğim)
