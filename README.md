@@ -111,7 +111,9 @@ Yukarıda bahsettiğimiz 3 saat sonra gönderilecek Notification 5 dakika sonras
 
 2)Mantra'lar database'e eklenecek ve database'den random olarak çekilmesi sağlanacak.
 
-3)Moon Cycle için API varsa entegre edilecek (inceliyorum)   
+3)Moon Cycle için API varsa entegre edilecek (inceliyorum) 
+https://rapidapi.com/sadasdasdlukedev/api/moon-phase  
+https://www.visualcrossing.com/resources/documentation/weather-api/how-to-include-sunrise-sunset-and-moon-phase-data-into-your-api-requests/  
 Yoksa nasıl ilerleyebiliriz?
 
 4)Moment için seçilen kategorilere göre video açılacak.  
